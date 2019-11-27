@@ -1,5 +1,5 @@
 # Directories
-bin/
+bin/*
 
 # Prerequisites
 *.d
@@ -33,3 +33,6 @@ bin/
 *.exe
 *.out
 *.app
+
+# exception to the rule
+!bin/.gitkeep
