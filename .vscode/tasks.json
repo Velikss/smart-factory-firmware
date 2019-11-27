@@ -12,6 +12,7 @@
                 "-o", 
                 "bin/main", 
                 "src/main.cpp",
+                "vendor/duktape/duktape.c",
                 "-I",
                 "${workspaceFolder}",
             ],
