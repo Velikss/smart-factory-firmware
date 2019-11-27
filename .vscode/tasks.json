@@ -13,7 +13,7 @@
                 "bin/main", 
                 "src/main.cpp",
                 "-I",
-                "${workspaceFolder}/include"
+                "${workspaceFolder}",
             ],
             "group": {
                 "kind": "build",

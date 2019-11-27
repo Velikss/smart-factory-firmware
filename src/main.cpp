@@ -1,6 +1,7 @@
 #include <iostream>
-#include <pch.hpp>
-#include <Interpreters/IInterpreter.h>
+
+#include <src/pch.hpp>
+#include <src/Interpreters/IInterpreter.hpp>
 
 int main() {
     std::cout << "Hello World!" << std::endl;
